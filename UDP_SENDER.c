@@ -1,3 +1,5 @@
+//Send a message from a UDP sender and display it at the receiver.
+
 #include <stdio.h>
 #include <string.h>
 #include <unistd.h>
