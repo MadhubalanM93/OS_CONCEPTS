@@ -1,3 +1,5 @@
+//Create a TCP server that receives and displays a message sent by a client.
+
 #include <stdio.h>
 #include <string.h>
 #include <unistd.h>
