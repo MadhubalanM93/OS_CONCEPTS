@@ -1,3 +1,5 @@
+//Create a file named test.txt and write the text "Hello Linux" into it.
+
 #include <stdio.h>
 #include <fcntl.h>
 #include <unistd.h>
