@@ -1,3 +1,5 @@
+//Write a message into a named pipe and read it from another program.
+
 #include <stdio.h>
 #include <fcntl.h>
 #include <unistd.h>
