@@ -1,3 +1,5 @@
+//Send the message "Hello Queue" using a message queue and receive it in another process.
+
 #include <sys/ipc.h>
 #include <sys/msg.h>
 #include <string.h>
